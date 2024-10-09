@@ -1,1 +1,1 @@
-![App view](de_to_en.gif)
+![App view](en_to_de.gif)
